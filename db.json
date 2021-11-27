@@ -1,7 +1,19 @@
 { "green-light":[
   {
         "color": "green",
-    "timer": 3
-}
-]
+    "timer": 3}
+],
+"red-light":[
+    {
+        "color": "red",
+        "timer": 7
+    }
+  ],
+  "yallow-light":[
+    {
+        "color": "yallow",
+        "timer": 5
+    }
+  ]
+
 }
