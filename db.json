@@ -1,13 +1,13 @@
 { "green-light":[
   {
         "light-color": "green",
-        "family-color": "green",
+        "family-color": "red",
     "timer": 3}
 ],
 "red-light":[
     {
         "light-color": "red",
-        "family-color": "green",
+        "family-color": "red",
         "timer": 7
     }
   ],
