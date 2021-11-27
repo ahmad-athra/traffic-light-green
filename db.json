@@ -7,14 +7,14 @@
 "red-light":[
     {
         "light-color": "red",
-        "family-color": "red",
+        "family-color": "green",
         "timer": 7
     }
   ],
   "yallow-light":[
     {
         "light-color": "yallow",
-        "family-color": "green",
+        "family-color": "red",
         "timer": 5
     }
   ]
