@@ -1,20 +1,20 @@
-{ "green-light":[
+{ "green_light":[
   {
-        "light-color": "green",
-        "family-color": "red",
+        "light_color": "green",
+        "family_color": "red",
     "timer": 3}
 ],
-"red-light":[
+"red_light":[
     {
-        "light-color": "red",
-        "family-color": "green",
+        "light_color": "red",
+        "family_color": "green",
         "timer": 7
     }
   ],
-  "yallow-light":[
+  "yellow_light":[
     {
-        "light-color": "yallow",
-        "family-color": "red",
+        "light_color": "yellow",
+        "family_color": "red",
         "timer": 5
     }
   ]
